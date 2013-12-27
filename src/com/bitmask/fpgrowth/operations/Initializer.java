@@ -60,7 +60,7 @@ public class Initializer {
     public void addSequence(ArrayList<String> sequence){        
         list.add(sequence);
     }
-    
+    /* This is sanjoy */
     public void performCountAndSort(){
         HashMap<String, Integer> counter = new HashMap<String, Integer>();
         for(int i = 0; i < list.size(); i++){

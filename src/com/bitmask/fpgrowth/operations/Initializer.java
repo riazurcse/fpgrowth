@@ -55,11 +55,8 @@ public class Initializer {
     public Initializer(){
         list = new ArrayList<ArrayList<String>>();
     }
-    /**
-     * Get a sequences of string as input
-     * @param sequence A ArrayList of String
-     * @see Node
-     */
+
+
     public void addSequence(ArrayList<String> sequence){        
         list.add(sequence);
     }

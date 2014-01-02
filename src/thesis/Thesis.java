@@ -37,9 +37,7 @@ public class Thesis {
             }
             data.addSequence(list);
         }
-        
-        
         data.performCountAndSort();
-        
+        data.reArrange();
     }
 }

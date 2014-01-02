@@ -5,8 +5,7 @@
 package com.bitmask.fpgrowth.datastructure;
 
 import java.util.ArrayList;
-
-/**
+/*
  *
  * @author ioi
  */
@@ -14,7 +13,7 @@ public class Node {
     
     String product;
     Integer count;
-
+    
     public Integer getCount() {
         return count;
     }
